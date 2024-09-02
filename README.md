@@ -9,7 +9,7 @@ sudo apt install tshark
 pip install pyshark
 pip3 innstall pyshark
 sudo apt install python3-pip
-git clone 
+git clone https://github.com/Amitkumaramit118589/detection-of-crypto-mining-app.git
 sudo python3 /home/kali/Desktop/live_cryptomining_detection.py eth0
 
 just run ifconfig command and check network interface name and use your device network name on the place of eth0
